@@ -1,1 +1,1 @@
-console.log('El Amigo Secreto')
+<h1>Amigo Secreto</h1>
